@@ -21,6 +21,10 @@ You will see a warning text above the search bar : <br><br>
 
 In the project directory, you can run:
 
+1) Install dependencies :
+### `yarn`
+
+2) Run this app on your browser :
 ### `yarn start`
 
 Runs the app in the development mode.<br />

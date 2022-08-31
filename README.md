@@ -50,4 +50,5 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 <br />
 
-[![Visits Badge](https://badges.pufler.dev/visits/kevinadhiguna/food-recipe-app)](https://github.com/kevinadhiguna)
+
+![Hello !](https://api.visitorbadge.io/api/VisitorHit?user=kevinadhiguna&repo=food-recipe-app&label=thanks%20for%20dropping%20in%20!&labelColor=%23000000&countColor=%23FFFFFF)
